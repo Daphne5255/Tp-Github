@@ -20,7 +20,7 @@
             <item code="14#finpour" algoitem="FIN_POUR"/>
         </item>
         <item code="4#Le tableau saisi est : #1" algoitem="AFFICHER &quot;Le tableau saisi est : &quot;"/>
-        <item code="12#i#1#30" algoitem="POUR i ALLANT_DE 1 A 30">
+        <item code="12#i#1#30" algoitem="POUR i ALLANT_DE 4 A 30">
             <item code="13#debutpour" algoitem="DEBUT_POUR"/>
             <item code="3#A#0#i" algoitem="AFFICHER A[i]"/>
             <item code="4#; #0" algoitem="AFFICHER &quot;; &quot;"/>
