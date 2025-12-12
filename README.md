@@ -28,6 +28,6 @@ En cas de conflit lors d'un :git pull ;
     git add <fichier>
     git commit -m "Résolution de conflit"
     git push origin main
-
+----
 TREILLARD de QUINEMONT Daphné, DECANTE Antoine, KUNA Milan
 Groupe E
